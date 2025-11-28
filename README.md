@@ -24,7 +24,7 @@ Check out my repositories to see my projects.
 - **Supervised & Unsupervised Learning**
 - **Model Evaluation & Validation**
 - **Feature Engineering**
-- **Model Deployment** (Joblib, Streamlit, FastAPI)
+- **Model Deployment** (Joblib, Streamlit, FastAPI, Node.js)
 
 ### 💾 Databases & Querying
 - **SQL** (PostgreSQL)
