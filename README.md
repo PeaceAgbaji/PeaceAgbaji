@@ -1,9 +1,9 @@
 
 ## 👋 Hi, I'm Peace.
 
-### **I'm a Data Scientist!**
+### **I'm a Data Scientist & Machine Learning Engineer!**
 
-I work with a lot of data, build predictive models, and create insights that support strategic decision-making.
+I work with a lot of data, build and deploy predictive models, and create insights that support strategic decision-making.
 
 Check out my repositories to see my projects.
 
